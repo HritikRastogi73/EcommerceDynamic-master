@@ -1,0 +1,15 @@
+
+.image_box:hover{
+     width:180px;
+     height:250px;
+}
+.img3:hover{
+   
+    transition: .5s;
+    width:180px;
+    height:250px;
+}
+.add:hover{
+   background-color: beige;
+    transition: .5s;
+}

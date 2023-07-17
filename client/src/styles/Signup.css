@@ -1,0 +1,24 @@
+.bod2{
+    width:100%;
+    height:630px;
+    background-color: #696666;
+    border:2px solid black;
+}
+.signup{ 
+    width:60%;
+    height:500px;
+    border:2px solid black;
+}
+.signupbox{
+    height:550px;
+    width:800px;
+    background-color: rgb(245, 240, 240);
+    box-shadow: 5px 10px 8px 10px #343232 
+}
+.signup-image{
+     margin-left:10px;
+     margin-top:40px;
+}
+.signup-form{
+    padding:20px;
+}

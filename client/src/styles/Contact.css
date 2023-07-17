@@ -1,0 +1,49 @@
+
+.contact-info{
+     border:2px solid black;
+     margin-top:10px;
+     background-color: antiquewhite;
+    
+}
+.contact_info_content{
+     margin-left:10px;
+}
+.contact-form{
+     margin-top:20px;
+    
+     
+}
+.contact-box1{
+     width:65%;
+     height:500px;
+     border:2px solid black;
+     margin-bottom:40px;
+     box-shadow: 5px 10px 8px 10px #4a4949 
+}
+#contact-form-name{
+     margin:10px;
+}
+#contact-form-email{
+     margin:10px;
+}
+#contact-form-phone{
+     margin:10px;
+}
+
+.contact-form-text{
+       margin-left:140px;
+}
+.contact-form-message{
+     border:2px solid black;
+}
+.contact-submit-button{
+ border-radius:10px;
+ margin-left:140px;
+ margin-top:20px;
+}
+.profile-img{
+     margin-top:20px;
+}
+.profile-work{
+     margin-top:20px;
+}
